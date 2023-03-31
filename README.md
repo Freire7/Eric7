@@ -1,2 +1,2 @@
 # Eric7
-Primeiros passos com a linguagem C
+:computador:Primeiros passos com a linguagem C
