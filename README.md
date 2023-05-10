@@ -24,10 +24,13 @@ int main (){
  printf ("Aprovado \n");
  
  }else{
+ 
  printf ("Reprovado \n");
  }
+ 
  printf("A sua nota foi %.2f ", media);
  return 0;
+ 
 } 
 
 2 - Calculando a área de um cilindro 
