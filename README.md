@@ -8,22 +8,21 @@ Segue abaixo alguns codigos que ja produzi pela faculdade
 #include<stdio.h>
 #include<string.h>
 
-int main()
-{
- //Para caracteres especiais
- setlocale(LC_ALL,"");
- //Criar variável
+int main (){
+
  float np1, np2, media;
- //ENTRADA
+ 
  printf("Digite a nota 1: ");
  scanf("%f", &np1);
+ 
  printf("Digite a nota 2: ");
  scanf("%f", &np2);
- //PROCESSAMENTO
+ 
  media = (np1 + np2)/2;
- //SAIDA
+ 
  if (media >= 5){
  printf ("Aprovado \n");
+ 
  }else{
  printf ("Reprovado \n");
  }
